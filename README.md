@@ -26,13 +26,13 @@
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개 
+### 2. 유튜브 클론
+>원하는 키워드를 검색하여 볼 수 있는 간단한 유튜브 클론
  
 >기술 스택:  
 >
 >  
->[프로젝트 상세 설명](https://github.com/mi-hee-k/review-diary) 참고
+>[프로젝트 상세 설명](https://github.com/mi-hee-k/youtube-project) 참고
 
 ---
 
