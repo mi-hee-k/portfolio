@@ -39,16 +39,6 @@
 
 ---
 
-### 3. 코딩코스 홍보 랜딩페이지(https://github.com/mi-hee-k/bootStrap-WebPage)
->부트스트랩을 이용하여 만든 반응형 웹페이지
-
->사용 기술: 
-> HTML / CSS / BootStrap
->
->[프로젝트 상세 설명](https://github.com/mi-hee-k/bootStrap-WebPage) 참고
-
----
-
 ### 3. J-Bank 웹페이지 (https://github.com/mi-hee-k/J-Bank-webPage)
 >jQuery를 이용하여 만든 은행 웹페이지
 
@@ -56,5 +46,15 @@
 > HTML / CSS / jQuery
 >
 >[프로젝트 상세 설명](https://github.com/mi-hee-k/J-Bank-webPage) 참고
+
+---
+
+### 4. 코딩코스 홍보 랜딩페이지(https://github.com/mi-hee-k/bootStrap-WebPage)
+>부트스트랩을 이용하여 만든 반응형 웹페이지
+
+>사용 기술: 
+> HTML / CSS / BootStrap
+>
+>[프로젝트 상세 설명](https://github.com/mi-hee-k/bootStrap-WebPage) 참고
 
 
