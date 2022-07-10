@@ -39,8 +39,8 @@
 
 ---
 
-### 3. 반응형 웹 랜딩페이지(https://github.com/mi-hee-k/bootStrap-WebPage)
->부트스트랩을 이용하여 만든 웹페이지
+### 3. 코딩코스 홍보 랜딩페이지(https://github.com/mi-hee-k/bootStrap-WebPage)
+>부트스트랩을 이용하여 만든 반응형 웹페이지
 
 >사용 기술: 
 > HTML / CSS / BootStrap
