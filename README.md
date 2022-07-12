@@ -29,13 +29,13 @@
 
 ---
 
-### 2. 심플 유튜브 (https://github.com/mi-hee-k/youtube-project)
+### 2. 심플 유튜브 (https://github.com/mi-hee-k/simple-tube)
 >원하는 키워드를 검색하여 볼 수 있는 간단한 유튜브 클론
  
 >사용 기술: 
 > HTML / CSS / JavaScript /React
 >  
->[프로젝트 상세 설명](https://github.com/mi-hee-k/youtube-project) 참고
+>[프로젝트 상세 설명](https://github.com/mi-hee-k/simple-tube) 참고
 
 ---
 
