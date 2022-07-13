@@ -40,7 +40,7 @@
 ---
 
 ### 3. J-Bank 웹페이지 (https://github.com/mi-hee-k/J-Bank-webPage)
->jQuery를 이용하여 만든 은행 웹페이지
+>jQuery를 이용하여 만든 은행 반응형 웹페이지
 
 >사용 기술: 
 > HTML / CSS / jQuery
